@@ -9,11 +9,11 @@ const config = {
   title: 'Kookmin SW Capstone 2022 31조',
   tagline: 'Kookmin SW Capstone 2022',
   url: 'https://kookmin-sw.github.io/',
-  baseUrl: 'capstone-2022-31/',
+  baseUrl: '/capstone-2022-31/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'capstone-2022-31', // Usually your GitHub org/user name.
+  organizationName: 'kookmin-sw', // Usually your GitHub org/user name.
   projectName: 'capstone-2022-31', // Usually your repo name.
 
   presets: [
