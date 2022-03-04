@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcapstone_2022_31=self.webpackChunkcapstone_2022_31||[]).push([[639],{9744:function(e){e.exports=JSON.parse('{"permalink":"capstone-2022-31/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
