@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'kookmin-sw', // Usually your GitHub org/user name.
   projectName: 'capstone-2022-31', // Usually your repo name.
-
+  deploymentBranch: "gh-pages",
   presets: [
     [
       'classic',
