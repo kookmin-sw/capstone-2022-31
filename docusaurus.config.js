@@ -70,7 +70,7 @@ const config = {
           position: "left",
           label: "Tutorial",
         },
-        { to: "/log", label: "Meeting log", position: "left" },
+        { to: "/log", label: "회의록", position: "left" },
         {
           href: "https://github.com/facebook/docusaurus",
           label: "GitHub",
@@ -111,8 +111,8 @@ const config = {
           title: "More",
           items: [
             {
-              label: "Blog",
-              to: "/blog",
+              label: "회의록",
+              to: "/log",
             },
             {
               label: "GitHub",
