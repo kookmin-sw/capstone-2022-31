@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcapstone_2022_31=self.webpackChunkcapstone_2022_31||[]).push([[385],{9438:function(e){e.exports=JSON.parse('{"permalink":"/capstone-2022-31/log/tags/facebook","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"A Docusaurus powered blog!","blogTitle":"Docusaurus blog!"}')}}]);

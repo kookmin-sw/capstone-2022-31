@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcapstone_2022_31=self.webpackChunkcapstone_2022_31||[]).push([[927],{9732:function(e){e.exports=JSON.parse('{"allTagsPath":"/capstone-2022-31/log/tags","slug":"/capstone-2022-31/log/tags/hello","name":"hello","count":2,"permalink":"/capstone-2022-31/log/tags/hello"}')}}]);
