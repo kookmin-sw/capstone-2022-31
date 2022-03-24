@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcapstone_2022_31=self.webpackChunkcapstone_2022_31||[]).push([[158],{5772:function(s){s.exports=JSON.parse('{"allTagsPath":"/capstone-2022-31/log/tags","slug":"/capstone-2022-31/log/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/capstone-2022-31/log/tags/docusaurus"}')}}]);
