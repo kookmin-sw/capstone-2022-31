@@ -43,19 +43,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'API Rail',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/rail.svg',
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: '시작하기',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '회의록', position: 'left'},
           {
             href: 'https://github.com/kookmin-sw/capstone-2022-31',
             label: 'GitHub',
@@ -70,7 +70,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: '시작하기',
                 to: '/docs/intro',
               },
             ],
@@ -96,7 +96,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: '회의록',
                 to: '/blog',
               },
               {
